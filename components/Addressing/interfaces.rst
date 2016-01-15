@@ -30,17 +30,17 @@ This interfaces should be implemented by models representing a country.
 
 .. _Sylius API CountryInterface: http://api.sylius.org/Sylius/Component/Addressing/Model/CountryInterface.html
 
-.. _component_addressing_model_province-interface:
+.. _component_addressing_model_administrative-area-interface:
 
-ProvinceInterface
-~~~~~~~~~~~~~~~~~
+AdministrativeAreaInterface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This interface should be implemented by models representing a part of a country.
 
 .. note::
-   For more detailed information go to `Sylius API ProvinceInterface`_.
+   For more detailed information go to `Sylius API AdministrativeAreaInterface`_.
 
-.. _Sylius API ProvinceInterface: http://api.sylius.org/Sylius/Component/Addressing/Model/ProvinceInterface.html
+.. _Sylius API AdministrativeAreaInterface: http://api.sylius.org/Sylius/Component/Addressing/Model/AdministrativeAreaInterface.html
 
 .. _component_addressing_model_zone-interface:
 
